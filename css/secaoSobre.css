@@ -19,7 +19,9 @@
 
 
 @media (min-width: 830px) {
-
+  * {
+    transition: 1s;
+  }
   .secaoSobre {
     text-align: left;
   }

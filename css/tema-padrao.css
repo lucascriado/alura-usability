@@ -86,6 +86,9 @@ li[aria-hidden='false'] { display:block ; }
 }
 
 @media (min-width: 830px) {
+  * {
+    transition: 1s;
+  }
   .container {
     width: 1200px;
     width: 800px;

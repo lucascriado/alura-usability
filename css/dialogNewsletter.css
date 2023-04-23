@@ -127,7 +127,9 @@
 }
 
 @media (min-width: 830px) {
-
+  * {
+    transition: 1s;
+  }
   .dialogNewsletter-body {
     width: 533px;
   }  

@@ -51,6 +51,9 @@
 }
 
 @media (min-width: 830px) {
+  * {
+    transition: 1s;
+  }
 
   .rodape-logo {
     max-height: 50px;

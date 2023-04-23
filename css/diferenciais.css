@@ -45,7 +45,9 @@
 
 
 @media (min-width: 830px) {
-
+  * {
+    transition: 1s;
+  }
 
   .secaoDiferenciais {
     padding-bottom: 0;

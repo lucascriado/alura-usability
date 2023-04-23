@@ -105,6 +105,9 @@
 
 
 @media (min-width: 830px) {
+  * {
+    transition: 1s;
+  }
 
   .secaoPlanos-plano {
     max-width: 260px;
